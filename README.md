@@ -1,2 +1,2 @@
 # imageblog
-simple responsive blog for displaying images
+Simple responsive blog for displaying images
